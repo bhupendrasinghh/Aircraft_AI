@@ -1,0 +1,6 @@
+train: C:/Users/ASHIRWAD PRATAPSINGH/Downloads/Innovation Hangar v2.v1-aug.yolov9/train/images
+val: C:/Users/ASHIRWAD PRATAPSINGH/Downloads/Innovation Hangar v2.v1-aug.yolov9/valid/images
+test: C:/Users/ASHIRWAD PRATAPSINGH/Downloads/Innovation Hangar v2.v1-aug.yolov9/test/images
+
+nc: 5
+names: ['crack', 'dent', 'missing-head', 'paint-off', 'scratch']
